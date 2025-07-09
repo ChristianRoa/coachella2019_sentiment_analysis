@@ -1,9 +1,0 @@
-https://pymongo.readthedocs.io/en/stable/tutorial.html
-https://stackoverflow.com/questions/51989179/python-regex-using-re-sub-to-clean-up-a-string
-https://stackoverflow.com/questions/33404752/removing-emojis-from-a-string-in-python
-https://docs.python.org/3/library/re.html#re.compile
-https://www.nltk.org/api/nltk.tokenize.regexp.html#nltk.tokenize.regexp.WordPunctTokenizer
-https://www.nltk.org/api/nltk.stem.WordNetLemmatizer.html?highlight=wordnet
-https://www.nltk.org/data.html
-https://stackoverflow.com/questions/5486337/how-to-remove-stop-words-using-nltk-or-python
-https://pitchfork.com/news/coachella-2019-weekend-2-lineup-and-schedule-all-the-set-times-you-need-to-know/
