@@ -7,3 +7,4 @@ https://www.nltk.org/api/nltk.stem.WordNetLemmatizer.html?highlight=wordnet
 https://www.nltk.org/data.html
 https://stackoverflow.com/questions/5486337/how-to-remove-stop-words-using-nltk-or-python
 https://pitchfork.com/news/coachella-2019-weekend-2-lineup-and-schedule-all-the-set-times-you-need-to-know/
+https://www.kaggle.com/datasets/pdp2600/coachella-2019-tweets
